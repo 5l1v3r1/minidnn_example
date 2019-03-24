@@ -1,0 +1,3 @@
+[submodule "MiniDNN"]
+	path = MiniDNN
+	url = git@github.com:yixuan/MiniDNN.git
